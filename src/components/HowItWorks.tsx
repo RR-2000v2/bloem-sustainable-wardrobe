@@ -1,5 +1,5 @@
 
-import { Check } from "lucide-react";
+import { Check, MapPin } from "lucide-react";
 
 const HowItWorks = () => {
   const steps = [
