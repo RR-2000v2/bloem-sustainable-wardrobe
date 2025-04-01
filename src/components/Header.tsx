@@ -16,11 +16,7 @@ const Header = () => {
         <div className="flex items-center">
           <a href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-bloem-purple rounded-full flex items-center justify-center">
-              {/* <Leaf className="h-5 w-5 text-white" /> */}
-              <img 
-                    src="RR-2000v2/bloem-wardrobe-swapper/public/logo.png"
-                    alt="Bloem Logo" 
-                  />
+              <Leaf className="h-5 w-5 text-white" />
             </div>
             <span className="font-bold text-bloem-purple text-2xl">bloem</span>
           </a>
