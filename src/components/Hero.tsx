@@ -36,9 +36,7 @@ const Hero = () => {
         }}>
             <div className="relative aspect-square max-w-lg mx-auto">
               
-              <div className="absolute bottom-8 left-8 w-72 h-72 bg-bloem-green rounded-3xl transform -rotate-3 animate-float" style={{
-              animationDelay: "1s"
-            }}></div>
+              
               <div className="absolute inset-4 bg-white rounded-3xl shadow-xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-bloem-purple/10 to-bloem-lavender/20"></div>
                 <div className="absolute inset-0 flex items-center justify-center">
