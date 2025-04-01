@@ -11,7 +11,7 @@ const HowItWorks = () => {
     {
       number: "02",
       title: "Choose how to share",
-      description: "Decide if you want to swap, sell, or give away each item. Set your preferences and conditions.",
+      description: "Decide if you want to sell or give away each item. Set your preferences and conditions.",
     },
     {
       number: "03",
@@ -31,7 +31,7 @@ const HowItWorks = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="heading-lg mb-4">How bloem Works</h2>
           <p className="body-md text-gray-600">
-            Our innovative platform makes swapping clothes as easy as shopping online, but with a sustainable twist.
+            Our innovative platform makes sharing clothes as easy as shopping online, but with a sustainable twist.
           </p>
         </div>
 
