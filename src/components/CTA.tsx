@@ -1,9 +1,6 @@
-
 import { Button } from "@/components/ui/button";
-
 const CTA = () => {
-  return (
-    <section className="py-20 bg-bloem-purple">
+  return <section className="py-20 bg-bloem-purple">
       <div className="container">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="heading-lg text-white mb-6">Join the bloem Wardrobe Revolution</h2>
@@ -14,14 +11,12 @@ const CTA = () => {
             <Button className="bg-white hover:bg-gray-100 text-bloem-purple font-medium rounded-full px-8 py-6 text-lg">
               Get Early Access
             </Button>
-            <Button variant="outline" className="border-2 border-white text-white hover:bg-white/10 font-medium rounded-full px-8 py-6 text-lg">
+            <Button variant="outline" className="border-2 border-white text-white font-medium rounded-full px-8 py-6 text-lg bg-white/0">
               Learn More
             </Button>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default CTA;
