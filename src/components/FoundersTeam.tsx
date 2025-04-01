@@ -13,7 +13,7 @@ const FoundersTeam = () => {
     {
       name: "Michael Chen",
       role: "CTO & Co-Founder",
-      image: "https://github.com/RR-2000v2/bloem-wardrobe-swapper/blob/main/public/logo.png",
+      image: "https://raw.githubusercontent.com/RR-2000v2/bloem-wardrobe-swapper/refs/heads/main/public/logo.png",
       bio: "Ex-Google engineer specializing in AI and recommendation systems."
     },
     {
