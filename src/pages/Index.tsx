@@ -22,8 +22,8 @@ const Index = () => {
         <ThriftPartners />
         <Features />
         <HowItWorks />
-        <OutfitOfTheDay />
         <AppExperience />
+        <OutfitOfTheDay />
         <Benefits />
         <SocialProof />
         <FoundersTeam />
