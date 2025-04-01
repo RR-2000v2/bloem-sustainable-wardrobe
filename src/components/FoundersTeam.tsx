@@ -7,7 +7,7 @@ const FoundersTeam = () => {
     {
       name: "Sarah Johnson",
       role: "CEO & Co-Founder",
-      image: "RR-2000v2/bloem-wardrobe-swapper/public/Icon-bloem.png",
+      image: "https://github.com/RR-2000v2/bloem-wardrobe-swapper/blob/main/public/Icon-bloem.png",
       bio: "Former sustainability lead at H&M with 10+ years in fashion retail."
     },
     {
