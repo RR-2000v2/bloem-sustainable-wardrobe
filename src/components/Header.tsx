@@ -20,7 +20,6 @@ const Header = () => {
               <img 
                     src="RR-2000v2/bloem-wardrobe-swapper/public/logo.png"
                     alt="Bloem Logo" 
-                    className="w-full h-full object-cover"
                   />
             </div>
             <span className="font-bold text-bloem-purple text-2xl">bloem</span>
