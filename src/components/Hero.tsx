@@ -1,9 +1,6 @@
-
 import { Button } from "@/components/ui/button";
-
 const Hero = () => {
-  return (
-    <section className="pt-12 pb-24 md:pt-20 md:pb-32">
+  return <section className="pt-12 pb-24 md:pt-20 md:pb-32">
       <div className="container">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
@@ -34,10 +31,14 @@ const Hero = () => {
               </p>
             </div>
           </div>
-          <div className="lg:w-1/2 relative animate-fade-in" style={{ animationDelay: "0.2s" }}>
+          <div className="lg:w-1/2 relative animate-fade-in" style={{
+          animationDelay: "0.2s"
+        }}>
             <div className="relative aspect-square max-w-lg mx-auto">
-              <div className="absolute top-0 right-0 w-80 h-80 bg-bloem-lavender rounded-3xl transform rotate-6 animate-float"></div>
-              <div className="absolute bottom-8 left-8 w-72 h-72 bg-bloem-green rounded-3xl transform -rotate-3 animate-float" style={{ animationDelay: "1s" }}></div>
+              
+              <div className="absolute bottom-8 left-8 w-72 h-72 bg-bloem-green rounded-3xl transform -rotate-3 animate-float" style={{
+              animationDelay: "1s"
+            }}></div>
               <div className="absolute inset-4 bg-white rounded-3xl shadow-xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-bloem-purple/10 to-bloem-lavender/20"></div>
                 <div className="absolute inset-0 flex items-center justify-center">
@@ -55,8 +56,6 @@ const Hero = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default Hero;
