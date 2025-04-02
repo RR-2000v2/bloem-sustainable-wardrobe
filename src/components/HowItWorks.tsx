@@ -57,7 +57,7 @@ const HowItWorks = () => {
             <div className="md:w-1/2">
               <h3 className="heading-md mb-4">The Physical Rack System</h3>
               <p className="body-md text-gray-700 mb-6">
-                What makes bloem unique is our network of secure physical racks placed in convenient locations. Each item is tagged with a unique code, allowing for contactless, secure exchanges.
+              Our network of accessible clothing racks makes preloved shopping and reselling seamless, contactless, and community-powered. Why it’s a game-changer:
               </p>
               <ul className="space-y-3">
                 {[
@@ -82,10 +82,15 @@ const HowItWorks = () => {
                 <div className="absolute inset-4 flex items-center justify-center">
                   <div className="w-full h-full bg-gray-200 rounded-2xl flex items-center justify-center">
                     <div className="text-center p-6">
-                      <div className="w-20 h-20 bg-bloem-green/30 rounded-full mx-auto mb-4 flex items-center justify-center">
+                      {/* <div className="w-20 h-20 bg-bloem-green/30 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <MapPin className="h-8 w-8 text-bloem-green" />
                       </div>
-                      <p className="text-gray-700 font-medium">Physical rack visualization coming soon</p>
+                      <p className="text-gray-700 font-medium">Physical rack visualization coming soon</p> */}
+                      <img 
+                    src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%205.jpeg"
+                    alt="Homepage" 
+                      className="w-full h-full object-cover object-center"
+                    />
                     </div>
                   </div>
                 </div>
