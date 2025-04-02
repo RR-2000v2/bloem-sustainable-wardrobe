@@ -19,11 +19,11 @@ const Index = () => {
       <Header />
       <main>
         <Hero />
-        <ThriftPartners />
+        {/* <ThriftPartners /> */}
         <Features />
         <HowItWorks />
         <AppExperience />
-        <OutfitOfTheDay />
+        {/* <OutfitOfTheDay /> */}
         <Benefits />
         <SocialProof />
         <FoundersTeam />
