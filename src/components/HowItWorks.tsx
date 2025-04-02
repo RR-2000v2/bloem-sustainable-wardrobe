@@ -31,7 +31,7 @@ const HowItWorks = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="heading-lg mb-4">How bloem Works</h2>
           <p className="body-md text-gray-600">
-            Our innovative platform makes sharing clothes as easy as shopping online, but with a sustainable twist.
+          bloem makes fashion circular, smart, and community-powered. Snap your items, list them in your digital wardrobe, and drop them off at local racks. Discover pieces you'll love, recommended by AI, shared by people like you.
           </p>
         </div>
 
