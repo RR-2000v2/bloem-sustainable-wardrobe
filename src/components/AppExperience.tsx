@@ -5,7 +5,7 @@ import { Check } from "lucide-react";
 const AppExperience = () => {
   const screens = [
     {
-      title: "Digital Closet",
+      title: "digital closet",
       description: "Easily organize and manage your clothing items",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%201.jpeg",
       features: [
@@ -27,7 +27,7 @@ const AppExperience = () => {
       ]
     },
     {
-      title: "Community Feed",
+      title: "community feed",
       description: "Get inspired and share your style with others",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%204.jpeg",
       features: [
