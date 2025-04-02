@@ -92,7 +92,7 @@ const SocialProof = () => {
         </div>
 
         <div>
-          <h3 className="heading-md text-center mb-8">What Our Users Say</h3>
+          <h3 className="heading-md text-center mb-8">what early <span className="text-bloem-purple">bloemers</span> say</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {testimonials.map((testimonial, index) => (
               <Card key={index} className="bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
