@@ -12,32 +12,32 @@ const FoundersTeam = () => {
     },
     {
       name: "Sophia Haas",
-      role: "CTO & Co-Founder",
-      image: "https://raw.githubusercontent.com/RR-2000v2/bloem-wardrobe-swapper/refs/heads/main/public/logo.png",
+      role: "Co-Founder",
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQGifw1gJswlxg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699347606109?e=1749081600&v=beta&t=Heuu84Y2INAchhDEcW62vBSVt49ZJ5K0qGOLzLE5xNU",
       bio: ""
     },
     {
       name: "Cheng Lin",
-      role: "COO & Co-Founder",
-      image: "https://this-person-does-not-exist.com/img/avatar-118eccaaf19bc095d3feb92726b35799.jpg",
+      role: "Co-Founder",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQEwWcOiFMpClA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699092536642?e=1749081600&v=beta&t=MQEaCk4fROWGlmWZfCPmiQix1tmpODau6SPr4gLNoCg",
       bio: ""
     },
     {
       name: "Jovin Müntener",
       role: "Head of Product",
-      image: "https://this-person-does-not-exist.com/img/avatar-1168b0e29d9dade5a874334fa69dd0b5.jpg",
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQE04_4-D7IjUg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705781653519?e=1749081600&v=beta&t=pc-spQtVP-2O1f46b0d0fkCuGeLvwDvsCThgQv-6fRY",
       bio: ""
     },
     {
       name: "Nayanika Debnath",
-      role: "Head of Marketing",
-      image: "https://this-person-does-not-exist.com/img/avatar-115e76ba6c36039663c7638ae9ccf43e.jpg",
+      role: "Co-Founder",
+      image: "https://media.licdn.com/dms/image/v2/C5603AQHUzsjpU_NlLw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1655823373155?e=1749081600&v=beta&t=R_i6fLkm6gzk4csKBRXlC0VAgRkG_9WN48-suUuVerA",
       bio: ""
     },
     {
       name: "Elena Lyulina",
-      role: "Head of Partnerships",
-      image: "https://this-person-does-not-exist.com/img/avatar-11d79ab9af06a60d12eea8553be3ce25.jpg",
+      role: "Co-Founder",
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQHXDNWPnZ6MoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1700570063547?e=1749081600&v=beta&t=WTQsPCN22P_0udZfgJS4N4kS7MlPg5G-sUUSe1rC73k",
       bio: ""
     }
   ];
