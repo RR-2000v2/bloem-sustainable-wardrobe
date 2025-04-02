@@ -18,17 +18,17 @@ const Features = () => {
     {
       icon: <ShoppingBag className="h-6 w-6 text-bloem-purple" />,
       title: "digital wardrobe",
-      description: "Upload items with AI assistance, and choose to swap, sell, or give away your clothes."
+      description: "Digitize your closet in seconds with AI. Sell, buy and manage everything effortlessly."
     },
     {
       icon: <MapPin className="h-6 w-6 text-bloem-purple" />,
       title: "physical racks",
-      description: "Access secure racks in high-traffic locations with items tagged for easy tracking."
+      description: "Secure racks in high-traffic spots, making it easy to drop off, pick up, and keep preloved fashion in cycle."
     },
     {
       icon: <Star className="h-6 w-6 text-bloem-purple" />,
       title: 'your page',
-      description: "Get suggestions for nearby racks with clothes you'd love and connect with like-minded users."
+      description: "Discover outfits and pre-loved finds just for you. Get nearby rack picks and connect with fellow bloemers."
     },
     {
       icon: <Handshake className="h-6 w-6 text-bloem-purple" />,
@@ -43,7 +43,7 @@ const Features = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="heading-lg mb-4">Sustainable Fashion Made Easy</h2>
           <p className="body-md text-gray-600">
-            bloem combines digital convenience with physical exchanges to create a seamless, sustainable clothing experience.
+          bloem makes fashion circular, smart, and community-powered. snap your items, list them in your digital wardrobe, and drop them off at local racks. discover pieces you'll love, recommended by AI, shared by people like you.
           </p>
         </div>
         
