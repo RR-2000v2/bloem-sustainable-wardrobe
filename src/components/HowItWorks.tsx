@@ -5,23 +5,28 @@ const HowItWorks = () => {
   const steps = [
     {
       number: "01",
-      title: "Upload your items",
-      description: "Use our AI-assisted uploading feature to quickly add your clothing items to your digital wardrobe.",
+      title: "upload your items",
+      description: "Use AI-assisted uploads to quickly add pieces to your digital wardrobe.",
     },
     {
       number: "02",
-      title: "Choose how to share",
-      description: "Decide if you want to sell or give away each item. Set your preferences and conditions.",
+      title: "rent a hanger",
+      description: "Reserve hangers at nearby racks that fit your item’s style and vibe.",
     },
     {
       number: "03",
-      title: "Connect with others",
-      description: "Browse recommendations, connect with users who have similar styles, or find items you love.",
+      title: "check-in",
+      description: "Label your items, link them via QR codes, and place them on your rented hangers.",
     },
     {
       number: "04",
-      title: "Exchange at a rack",
-      description: "Use our physical racks in convenient locations to securely exchange items without meeting in person.",
+      title: "track sales",
+      description: "Monitor interest and sales in real time, right from the app.",
+    },
+    {
+      number: "05",
+      title: "discover",
+      description: "Browse personalized recommendations, follow bloemers and find items you love.",
     },
   ];
 
