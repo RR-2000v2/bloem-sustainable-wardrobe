@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="container relative z-10">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
-            <h1 className="heading-xl text-left">
+            <h1 className="heading-l text-left">
             {/* Re<span className="text-bloem-purple">Wear</span> Re<span className="text-bloem-purple">Share</span> Re<span className="text-bloem-purple">Bloem</span> */}
               {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
               from digital closet to local racks, community-powered.
