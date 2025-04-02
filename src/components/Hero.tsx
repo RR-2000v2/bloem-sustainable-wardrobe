@@ -21,7 +21,8 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
             <h1 className="heading-xl text-left">
-              Share or Sell Your <span className="text-bloem-purple">Wardrobe</span>
+              bridging the gab between <span className="text-bloem-purple">digital</span> and <span className="text-bloem-purple">in-person reselling</span> by empowering communities
+              {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
               Join the sustainable fashion movement with bloem. Our innovative platform combines digital listings with physical exchange racks, making clothes sharing convenient and eco-friendly.
@@ -43,7 +44,7 @@ const Hero = () => {
                 </div>
               </div>
               <p className="text-sm text-gray-600">
-                <span className="font-bold">500+</span> people already joined
+                <span className="font-bold">80+</span> people expressed interest 
               </p>
             </div>
           </div>
