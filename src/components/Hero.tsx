@@ -21,7 +21,15 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
             <h1 className="heading-xl text-left">
-              your  closet. your <span className="text-bloem-purple">community</span>. your style.
+              your <span className="text-bloem-purple">closet</span>
+              {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
+            </h1>
+            <h1 className="heading-xl text-left">
+              your <span className="text-bloem-purple">community</span>
+              {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
+            </h1>
+            <h1 className="heading-xl text-left">
+              your <span className="text-bloem-purple">style</span>
               {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
