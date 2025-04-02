@@ -55,9 +55,9 @@ const HowItWorks = () => {
         <div className="mt-20 bg-bloem-lavender/20 rounded-2xl p-8 md:p-12">
           <div className="flex flex-col md:flex-row gap-8 items-center">
             <div className="md:w-1/2">
-              <h3 className="heading-md mb-4">The Physical Rack System</h3>
+              <h3 className="heading-md mb-4">circular bloem racks</h3>
               <p className="body-md text-gray-700 mb-6">
-              Our network of accessible clothing racks makes preloved shopping and reselling seamless, contactless, and community-powered. Why it’s a game-changer:
+              Preloved fashion, reimagined for convenience through a network of accessible, self-serve clothing racks. Making secondhand shopping and reselling seamless, contactless, and community-powered.
               </p>
               <ul className="space-y-3">
                 {[
@@ -65,13 +65,13 @@ const HowItWorks = () => {
                   // "Available 24/7 in convenient locations",
                   // "Items are securely locked until authorized pickup",
                   // "Eco-friendly alternative to shipping",
-                  "⁠Contactless – Items are tagged and display until sold, no meetups needed.",
-                  "⁠Convenient – Drop off or pick up anytime, at high-traffic local spots.",
-                  "⁠Try before you buy – Skip the guesswork, see fit, quality, and condition in person.",
-                  "⁠Resourceful – A low-impact, shipping-free way to keep clothes in circulation.",
-                  "⁠remote Reselling – List, drop off, and let Bloem do the rest.",
-                  "⁠Smart Sorting – Items are organized by category, not by seller—for easier browsing.",
-                  "⁠Track Your Wardrobe – View sales, status, and item history in your digital closet."
+                  "Contactless exchanges – Items are tagged and displayed until sold, no meetups needed.",
+                  "Convenient – Drop off or pick up anytime, at high-traffic local spots.",
+                  "Try before you buy – See the fit, quality, and condition in person—no more guessing.",
+                  "Low-impact & shipping-free – A resourceful way to keep clothes in circulation.",
+                  "Remote reselling – List, drop off, and let bloem do the rest.",
+                  "Smart sorting – Browse by category, not individual seller, for a smoother experience.",
+                  "Track your wardrobe – Manage your digital closet, view item history, and monitor your sales."
                 ].map((point, index) => (
                   <li key={index} className="flex items-start">
                     <div className="mr-2 mt-1">
