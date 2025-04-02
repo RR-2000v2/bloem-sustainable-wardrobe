@@ -96,7 +96,7 @@ const HowItWorks = () => {
                       <img 
                     src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%205.jpeg"
                     alt="Homepage" 
-                      className="w-full h-full object-cover object-center"
+                      className="w-full object-cover object-center"
                     />
                     </div>
                   </div>
