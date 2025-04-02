@@ -5,40 +5,40 @@ import { Linkedin, Twitter } from "lucide-react";
 const FoundersTeam = () => {
   const founders = [
     {
-      name: "Sarah Johnson",
-      role: "CEO & Co-Founder",
+      name: "Ramanathan Rajaraman",
+      role: "Co-Founder",
       image: "https://media.licdn.com/dms/image/v2/D4E03AQGpBrYA8YlTag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708349359229?e=1749081600&v=beta&t=9D6BRSgiCeUNp3Kk4HVfZ-XpdLYarNrSxclqDxeC9JM",
-      bio: "Former sustainability lead at H&M with 10+ years in fashion retail."
+      bio: ""
     },
     {
-      name: "Michael Chen",
+      name: "Sophia Haas",
       role: "CTO & Co-Founder",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-wardrobe-swapper/refs/heads/main/public/logo.png",
-      bio: "Ex-Google engineer specializing in AI and recommendation systems."
+      bio: ""
     },
     {
-      name: "Leila Patel",
+      name: "Cheng Lin",
       role: "COO & Co-Founder",
       image: "https://this-person-does-not-exist.com/img/avatar-118eccaaf19bc095d3feb92726b35799.jpg",
-      bio: "Previously launched and scaled three successful marketplace startups."
+      bio: ""
     },
     {
-      name: "David Okafor",
+      name: "Jovin Müntener",
       role: "Head of Product",
       image: "https://this-person-does-not-exist.com/img/avatar-1168b0e29d9dade5a874334fa69dd0b5.jpg",
-      bio: "Product leader with experience at Depop and Vinted."
+      bio: ""
     },
     {
-      name: "Emma Rodriguez",
+      name: "Nayanika Debnath",
       role: "Head of Marketing",
       image: "https://this-person-does-not-exist.com/img/avatar-115e76ba6c36039663c7638ae9ccf43e.jpg",
-      bio: "Brand strategist with background in sustainable fashion marketing."
+      bio: ""
     },
     {
-      name: "Thomas Kim",
+      name: "Elena Lyulina",
       role: "Head of Partnerships",
       image: "https://this-person-does-not-exist.com/img/avatar-11d79ab9af06a60d12eea8553be3ce25.jpg",
-      bio: "Built retail partnerships at ThredUp and The RealReal."
+      bio: ""
     }
   ];
 
