@@ -17,22 +17,22 @@ const Benefits = () => {
   const benefits = [
     {
       icon: <Leaf className="h-8 w-8 text-bloem-green" />,
-      title: "Eco-Friendly",
-      description: "Reduce fashion waste and lower your carbon footprint by giving clothes a second life."
+      title: "resourceful",
+      description: "Fight fashion waste by keeping clothes in circulation and out of landfills."
     },
     {
       icon: <Zap className="h-8 w-8 text-bloem-purple" />,
-      title: "Convenient",
+      title: "convenient",
       description: "Exchange items on your schedule with no need to coordinate meetups or shipping."
     },
     {
       icon: <Lock className="h-8 w-8 text-bloem-purple" />,
-      title: "Secure",
-      description: "Our physical racks and verification system ensure safe, reliable exchanges."
+      title: "transparent",
+      description: "Track item history, understand your impact, and shop consciously."
     },
     {
       icon: <Heart className="h-8 w-8 text-bloem-lavender" />,
-      title: "Community",
+      title: "community",
       description: "Connect with like-minded individuals who share your style and sustainability values."
     },
   ];

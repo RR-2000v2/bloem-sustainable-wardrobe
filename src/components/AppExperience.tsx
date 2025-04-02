@@ -9,10 +9,6 @@ const AppExperience = () => {
       description: "Easily organize and manage your clothing items",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%201.jpeg",
       features: [
-        "AI-powered item categorization",
-        "Detailed item tracking",
-        "Set items for sale or sharing",
-        "Track item history"
       ]
     },
     {
@@ -20,10 +16,6 @@ const AppExperience = () => {
       description: "Connect with others and exchange items securely",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%203.jpeg",
       features: [
-        "In-app messaging with other users",
-        "Secure payment processing",
-        "QR code for rack access",
-        "Exchange history and receipts"
       ]
     },
     {
@@ -31,10 +23,6 @@ const AppExperience = () => {
       description: "Get inspired and share your style with others",
       image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%204.jpeg",
       features: [
-        "Daily outfit inspiration",
-        "Follow favorite style creators",
-        "Personalized recommendations",
-        "Share outfits from your closet"
       ]
     }
   ];
