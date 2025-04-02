@@ -55,7 +55,7 @@ const HowItWorks = () => {
         <div className="mt-20 bg-bloem-lavender/20 rounded-2xl p-8 md:p-12">
           <div className="flex flex-col md:flex-row gap-8 items-center">
             <div className="md:w-1/2">
-              <h3 className="heading-md mb-4">circular bloem racks</h3>
+              <h3 className="heading-md mb-4">circular <span className="text-bloem-purple">bloem</span> racks</h3>
               <p className="body-md text-gray-700 mb-6">
               Preloved fashion, reimagined for convenience through a network of accessible, self-serve clothing racks. Making secondhand shopping and reselling seamless, contactless, and community-powered.
               </p>
