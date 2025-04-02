@@ -23,7 +23,7 @@ const Hero = () => {
             <h1 className="heading-lg text-left">
             {/* Re<span className="text-bloem-purple">Wear</span> Re<span className="text-bloem-purple">Share</span> Re<span className="text-bloem-purple">Bloem</span> */}
               {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
-              from digital closet to local racks, community-powered.
+              from digital closet to local racks, community-powered
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
               {/* Join the sustainable fashion movement with bloem. Our innovative platform combines digital listings with physical exchange racks, making clothes sharing convenient and eco-friendly. */}
