@@ -7,7 +7,7 @@ const AppExperience = () => {
     {
       title: "Digital Closet",
       description: "Easily organize and manage your clothing items",
-      image: "https://i.ibb.co/PZ1XKZQ/digital-closet.png",
+      image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%201.jpeg",
       features: [
         "AI-powered item categorization",
         "Detailed item tracking",
@@ -16,9 +16,9 @@ const AppExperience = () => {
       ]
     },
     {
-      title: "Item Exchange",
+      title: "outfit-of-the-day",
       description: "Connect with others and exchange items securely",
-      image: "https://i.ibb.co/bvH9v4q/item-exchange.png",
+      image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%203.jpeg",
       features: [
         "In-app messaging with other users",
         "Secure payment processing",
@@ -29,7 +29,7 @@ const AppExperience = () => {
     {
       title: "Community Feed",
       description: "Get inspired and share your style with others",
-      image: "https://i.ibb.co/gvZKLbq/community-feed.png",
+      image: "https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%204.jpeg",
       features: [
         "Daily outfit inspiration",
         "Follow favorite style creators",
