@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
             <h1 className="heading-xl text-left">
-              bridging the gab between <span className="text-bloem-purple">digital</span> and <span className="text-bloem-purple">in-person reselling</span> by empowering communities
+              your  closet. your <span className="text-bloem-purple">community</span>. your style.
               {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
