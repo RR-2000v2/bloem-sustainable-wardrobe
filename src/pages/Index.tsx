@@ -23,7 +23,7 @@ const Index = () => {
         <Features />
         <HowItWorks />
         <AppExperience />
-        {/* <OutfitOfTheDay /> */}
+        <OutfitOfTheDay />
         <Benefits />
         <SocialProof />
         <FoundersTeam />
