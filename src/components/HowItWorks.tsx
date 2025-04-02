@@ -11,20 +11,15 @@ const HowItWorks = () => {
     {
       number: "02",
       title: "rent a hanger",
-      description: "Reserve hangers at nearby racks that fit your item’s style and vibe.",
+      description: "Choose a rack near you and link them with a QR code.",
     },
     {
       number: "03",
-      title: "check-in",
-      description: "Label your items, link them via QR codes, and place them on your rented hangers.",
-    },
-    {
-      number: "04",
       title: "track sales",
       description: "Monitor interest and sales in real time, right from the app.",
     },
     {
-      number: "05",
+      number: "04",
       title: "discover",
       description: "Browse personalized recommendations, follow bloemers and find items you love.",
     },
