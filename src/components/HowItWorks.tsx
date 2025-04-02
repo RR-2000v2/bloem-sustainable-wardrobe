@@ -94,7 +94,7 @@ const HowItWorks = () => {
                       </div>
                       <p className="text-gray-700 font-medium">Physical rack visualization coming soon</p> */}
                       <img 
-                    src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%205.jpeg"
+                    src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/App%20Crop.png"
                     alt="Homepage" 
                       className="w-full object-cover object-center"
                     />
