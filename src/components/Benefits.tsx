@@ -70,32 +70,6 @@ const Benefits = () => {
             />
           ))}
         </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {testimonials.map((testimonial, index) => (
-            <div key={index} className="bg-white p-8 rounded-xl shadow-sm border border-gray-100">
-              <div className="flex flex-col h-full">
-                <div className="mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <span key={i} className="text-bloem-purple">★</span>
-                  ))}
-                </div>
-                <p className="text-lg italic mb-6 flex-grow">"{testimonial.quote}"</p>
-                <div className="flex items-center mt-auto">
-                  <div className="w-12 h-12 rounded-full bg-bloem-lavender flex items-center justify-center mr-4">
-                    <span className="text-sm font-bold text-bloem-purple">
-                      {testimonial.author.split(' ').map(word => word[0]).join('')}
-                    </span>
-                  </div>
-                  <div>
-                    <p className="font-medium">{testimonial.author}</p>
-                    <p className="text-sm text-gray-500">{testimonial.role}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
       </div>
     </section>
   );
