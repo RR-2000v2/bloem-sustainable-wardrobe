@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6 animate-fade-in">
             <h1 className="heading-xl text-left">
-            Re<span className="text-bloem-purple">wear</span>-Re<span className="text-bloem-purple">share</span>-Re<span className="text-bloem-purple">Bleom</span>
+            Re<span className="text-bloem-purple">Wear</span> Re<span className="text-bloem-purple">share</span> Re<span className="text-bleom-purple">Bleom</span>
               {/* share or sell Your <span className="text-bloem-purple">Wardrobe</span> */}
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
