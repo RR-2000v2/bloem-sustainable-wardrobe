@@ -43,9 +43,9 @@ const AppExperience = () => {
     <section className="py-20 bg-gradient-to-b from-white to-bloem-ivory">
       <div className="container">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="heading-lg mb-4"> <span className="text-bloem-purple">bloem</span> with us</h2>
+          <h2 className="heading-lg mb-4"> let's <span className="text-bloem-purple">bloem</span> </h2>
           <p className="body-md text-gray-600">
-            See how our app transforms the way you manage, share, and discover clothing.
+          Discover how our app is redefining circular fashion. Smarter, easier, and community-powered.
           </p>
         </div>
 
