@@ -26,7 +26,7 @@ const Hero = () => {
             </h1>
             <p className="body-lg text-gray-600 max-w-xl">
               {/* Join the sustainable fashion movement with bloem. Our innovative platform combines digital listings with physical exchange racks, making clothes sharing convenient and eco-friendly. */}
-              Because circular fashion should be fun, easy, and social.
+              Because circular fashion should be fun, easy, and social. 
               <span className="text-bloem-purple">bloem</span> with us. Let's save the planet. one cute outfit at a time.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
