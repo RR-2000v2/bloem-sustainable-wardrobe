@@ -17,22 +17,22 @@ const Features = () => {
   const features = [
     {
       icon: <ShoppingBag className="h-6 w-6 text-bloem-purple" />,
-      title: "Digital Wardrobe & Listings",
+      title: "digital wardrobe",
       description: "Upload items with AI assistance, and choose to swap, sell, or give away your clothes."
     },
     {
       icon: <MapPin className="h-6 w-6 text-bloem-purple" />,
-      title: "Physical Racks for Exchanges",
+      title: "physical racks",
       description: "Access secure racks in high-traffic locations with items tagged for easy tracking."
     },
     {
       icon: <Star className="h-6 w-6 text-bloem-purple" />,
-      title: 'AI-Powered "For You" Page',
+      title: 'personalized "For You" page',
       description: "Get suggestions for nearby racks with clothes you'd love and connect with like-minded users."
     },
     {
       icon: <User className="h-6 w-6 text-bloem-purple" />,
-      title: '"Me" Page for Management',
+      title: 'thriving community',
       description: "View all your listed items and track what's available, sold, or swapped."
     },
   ];
