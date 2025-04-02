@@ -1,5 +1,5 @@
 
-import { ShoppingBag, MapPin, Star, User } from "lucide-react";
+import { ShoppingBag, MapPin, Star, User, Handshake} from "lucide-react";
 
 const FeatureCard = ({ icon, title, description }: { icon: JSX.Element, title: string, description: string }) => {
   return (
@@ -31,7 +31,7 @@ const Features = () => {
       description: "Get suggestions for nearby racks with clothes you'd love and connect with like-minded users."
     },
     {
-      icon: <User className="h-6 w-6 text-bloem-purple" />,
+      icon: <Handshake className="h-6 w-6 text-bloem-purple" />,
       title: 'thriving community',
       description: "View all your listed items and track what's available, sold, or swapped."
     },
