@@ -33,7 +33,7 @@ const Features = () => {
     {
       icon: <Handshake className="h-6 w-6 text-bloem-purple" />,
       title: 'thriving community',
-      description: "Be part of something meaningful. Share stories, follow closets you love, connect with local bloemers, and discover the people behind the pieces you buy."
+      description: "Connect with local bloemers, follow closets you love, and discover the stories behind each piece."
     },
   ];
 

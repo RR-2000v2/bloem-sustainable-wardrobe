@@ -31,7 +31,7 @@ const HowItWorks = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="heading-lg mb-4">How bloem Works</h2>
           <p className="body-md text-gray-600">
-          bloem makes fashion circular, smart, and community-powered. Snap your items, list them in your digital wardrobe, and drop them off at local racks. Discover pieces you'll love, recommended by AI, shared by people like you.
+          bloem makes fashion circular, smart, and community-powered. snap your items, list them in your digital wardrobe, and drop them off at local racks. discover pieces you'll love, recommended by AI, shared by people like you.
           </p>
         </div>
 
