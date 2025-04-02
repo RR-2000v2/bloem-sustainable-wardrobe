@@ -11,16 +11,16 @@ const SocialProof = () => {
 
   const testimonials = [
     {
-      quote: "I've always wanted an easier way to refresh my wardrobe sustainably. bloem makes it so simple to find unique secondhand pieces nearby.",
-      author: "Lisa M., Fashion Blogger"
+      quote: "I love that bloem is a young, fun community with a meaningful purpose, namely real action towards a circular fashion economy.",
+      author: "Nina Pearson"
     },
     {
-      quote: "The physical racks are genius! I can drop off and pick up items on my own schedule without arranging meetups with strangers.",
-      author: "Carlos R., Marketing Executive"
+      quote: "I Believe we can all be Conscious consumers and we are at a point that we need to be Allies to our world to protect our Environment and ecosystems in any way we can.",
+      author: "Laura Vidal"
     },
     {
-      quote: "As someone concerned about fashion waste, I love that bloem makes sustainable clothing choices accessible and convenient.",
-      author: "Jamie T., Environmental Scientist"
+      quote: "I am beyond excited about the launch of this incredible platform- a digital wardrobe! In a world where the fashion industry moves at breakneck speed, this concept feels like a breath of fresh air.",
+      author: "Melissa Wiss"
     }
   ];
 
