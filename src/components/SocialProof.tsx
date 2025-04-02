@@ -34,7 +34,7 @@ const SocialProof = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+        {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
           {stats.map((stat, index) => (
             <Card key={index} className="border border-gray-100 shadow-sm hover:shadow-md transition-shadow overflow-hidden">
               <CardContent className="p-8">
@@ -44,9 +44,9 @@ const SocialProof = () => {
               </CardContent>
             </Card>
           ))}
-        </div>
+        </div> */}
 
-        <div className="bg-bloem-ivory rounded-2xl p-8 md:p-12 mb-16">
+        {/* <div className="bg-bloem-ivory rounded-2xl p-8 md:p-12 mb-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="heading-md mb-6">Environmental Impact</h3>
@@ -89,7 +89,7 @@ const SocialProof = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div>
           <h3 className="heading-md text-center mb-8">what early <span className="text-bloem-purple">bloemers</span> say</h3>
