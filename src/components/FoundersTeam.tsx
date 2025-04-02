@@ -24,7 +24,7 @@ const FoundersTeam = () => {
     },
     {
       name: "Jovin Müntener",
-      role: "Head of Product",
+      role: "Co-Founder",
       image: "https://media.licdn.com/dms/image/v2/D4D03AQE04_4-D7IjUg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705781653519?e=1749081600&v=beta&t=pc-spQtVP-2O1f46b0d0fkCuGeLvwDvsCThgQv-6fRY",
       bio: ""
     },
