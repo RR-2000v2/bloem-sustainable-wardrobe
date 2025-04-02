@@ -41,7 +41,7 @@ const Features = () => {
     <section id="features" className="py-20 bg-gradient-to-b from-bloem-ivory to-white">
       <div className="container">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="heading-lg mb-4">Sustainable Fashion Made Easy</h2>
+          <h2 className="heading-lg mb-4">Circular Fashion Made Easy</h2>
           <p className="body-md text-gray-600">
           bloem makes fashion circular, smart, and community-powered. snap your items, list them in your digital wardrobe, and drop them off at local racks. discover pieces you'll love, recommended by AI, shared by people like you.
           </p>

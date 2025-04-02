@@ -5,12 +5,12 @@ const HowItWorks = () => {
   const steps = [
     {
       number: "01",
-      title: "upload your items",
+      title: "upload items",
       description: "Use AI-assisted uploads to quickly add pieces to your digital wardrobe.",
     },
     {
       number: "02",
-      title: "rent a hanger",
+      title: "rent hangers",
       description: "Choose a rack near you and link them with a QR code.",
     },
     {
@@ -21,7 +21,7 @@ const HowItWorks = () => {
     {
       number: "04",
       title: "discover",
-      description: "Browse personalized recommendations, follow bloemers and find items you love.",
+      description: "Follow bloemers, get personalized recommendation, love what you find.",
     },
   ];
 
@@ -61,10 +61,17 @@ const HowItWorks = () => {
               </p>
               <ul className="space-y-3">
                 {[
-                  "No need to meet strangers for exchanges",
-                  "Available 24/7 in convenient locations",
-                  "Items are securely locked until authorized pickup",
-                  "Eco-friendly alternative to shipping",
+                  // "No need to meet strangers for exchanges",
+                  // "Available 24/7 in convenient locations",
+                  // "Items are securely locked until authorized pickup",
+                  // "Eco-friendly alternative to shipping",
+                  "⁠Contactless – Items are tagged and display until sold, no meetups needed.",
+                  "⁠Convenient – Drop off or pick up anytime, at high-traffic local spots.",
+                  "⁠Try before you buy – Skip the guesswork, see fit, quality, and condition in person.",
+                  "⁠Resourceful – A low-impact, shipping-free way to keep clothes in circulation.",
+                  "⁠remote Reselling – List, drop off, and let Bloem do the rest.",
+                  "⁠Smart Sorting – Items are organized by category, not by seller—for easier browsing.",
+                  "⁠Track Your Wardrobe – View sales, status, and item history in your digital closet."
                 ].map((point, index) => (
                   <li key={index} className="flex items-start">
                     <div className="mr-2 mt-1">
