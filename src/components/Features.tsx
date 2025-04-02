@@ -27,13 +27,13 @@ const Features = () => {
     },
     {
       icon: <Star className="h-6 w-6 text-bloem-purple" />,
-      title: 'personalized "For You" page',
+      title: 'your page',
       description: "Get suggestions for nearby racks with clothes you'd love and connect with like-minded users."
     },
     {
       icon: <Handshake className="h-6 w-6 text-bloem-purple" />,
       title: 'thriving community',
-      description: "View all your listed items and track what's available, sold, or swapped."
+      description: "Be part of something meaningful. Share stories, follow closets you love, connect with local bloemers, and discover the people behind the pieces you buy."
     },
   ];
 
