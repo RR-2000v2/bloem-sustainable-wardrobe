@@ -1,5 +1,5 @@
 
-import { Heart, Leaf, Lock, Zap } from "lucide-react";
+import { Heart, Leaf, Lock, Zap , Eye} from "lucide-react";
 
 const BenefitCard = ({ icon, title, description }: { icon: JSX.Element, title: string, description: string }) => {
   return (
@@ -26,7 +26,7 @@ const Benefits = () => {
       description: "Exchange items on your schedule with no need to coordinate meetups or shipping."
     },
     {
-      icon: <Lock className="h-8 w-8 text-bloem-purple" />,
+      icon: <Eye className="h-8 w-8 text-bloem-purple" />,
       title: "transparent",
       description: "Track item history, understand your impact, and shop consciously."
     },
