@@ -54,7 +54,7 @@ const Hero = () => {
           <div className="lg:w-1/2 relative animate-fade-in" style={{
           animationDelay: "0.2s"
         }}>
-            <div className="relative aspect-square max-w-lg mx-auto">
+            {/* <div className="relative aspect-square max-w-lg mx-auto">
               <div className="absolute inset-4 bg-white rounded-3xl shadow-xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-bloem-purple/10 to-bloem-lavender/20"></div>
                 <div className="absolute inset-0 flex items-center justify-center">
@@ -68,6 +68,14 @@ const Hero = () => {
                   </div>
                 </div>
               </div>
+            </div> */}
+
+            <div className="w-10 h-10 rounded-full overflow-hidden">
+              <img 
+                src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/front%20Image.jpeg"
+                alt="Landing Image" 
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
         </div>
