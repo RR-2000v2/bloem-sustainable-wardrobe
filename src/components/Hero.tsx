@@ -70,13 +70,12 @@ const Hero = () => {
               </div>
             </div> */}
 
-            <div className="w-10 h-10 rounded-full overflow-hidden">
+            {/* <div className="w-10 h-10 rounded-full overflow-hidden"> */}
               <img 
                 src="https://raw.githubusercontent.com/RR-2000v2/bloem-sustainable-wardrobe/refs/heads/main/public/front%20Image.jpeg"
                 alt="Landing Image" 
-                className="w-full h-full object-cover"
               />
-            </div>
+            {/* </div> */}
           </div>
         </div>
       </div>
